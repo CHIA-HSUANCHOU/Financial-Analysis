@@ -1,23 +1,27 @@
 # Financial-Analysis
 
 ---
-Project: Financial Analysis in Different Stock Strategy
+Project: Analysis of Return and Risk in Technology Stocks Using Different Investment Strategies
 
 Date: 2024-06-10
 
 Course: Financial Data Analysis
 
 ---
+## Goal
+Select 29 technology and electronics stocks and analyze returns and risks using different investment strategies.
 
-## Description
-選擇29檔科技電子股，先分析個別資產累積報酬率、敘述統計量
-使用
-1. Buy and hold：一開始均等比例投資，不進行任何買賣直到投資結束。 
-2. Equal weight：每期調整投資組合，讓各個股票投資比例相同。 
-3. Price weight。 
-4. GMVP。 
-5. No-shortsales GMVP。 
-6. Tangency portfolio。 
-7. No-shortsales MVP：期望報酬是0.3%
+## Step
+1. Analyze individual asset cumulative returns and descriptive statistics.
+2. Implement the following investment strategies:
+* Buy and Hold: Initially invest in equal proportions and hold without any trades until the investment period ends.
+* Equal Weight: Rebalance the portfolio periodically to maintain equal allocation across all stocks.
+* Price-Weighted Portfolio.
+* Global Minimum Variance Portfolio (GMVP).
+* No-Short-Sales GMVP.
+* Tangency Portfolio.
+* No-Short-Sales Minimum Variance Portfolio (MVP): Target expected return of 0.3%.
+3. Conduct return and risk analysis for each investment strategy.
+4. Compare the performance of each strategy and suggest possible improvements.
 
 
